@@ -1,0 +1,4827 @@
+[
+  {
+    "id": "AF",
+    "currencyId": "AFN",
+    "currencys": [
+      {
+        "id": "AFN",
+        "name": "AFN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "93",
+    "isActive": true,
+    "name": "Afghanistan",
+    "tzId": "Asia/Kabul",
+    "tzs": [
+      {
+        "id": "Asia/Kabul",
+        "name": "Asia/Kabul",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AL",
+    "currencyId": "ALL",
+    "currencys": [
+      {
+        "id": "ALL",
+        "name": "ALL",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "355",
+    "isActive": true,
+    "name": "Albania",
+    "tzId": "Europe/Tirane",
+    "tzs": [
+      {
+        "id": "Europe/Tirane",
+        "name": "Europe/Tirane",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "DZ",
+    "currencyId": "DZD",
+    "currencys": [
+      {
+        "id": "DZD",
+        "name": "DZD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "213",
+    "isActive": true,
+    "name": "Algeria",
+    "tzId": "Africa/Algiers",
+    "tzs": [
+      {
+        "id": "Africa/Algiers",
+        "name": "Africa/Algiers",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AD",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "376",
+    "isActive": true,
+    "name": "Andorra",
+    "tzId": "Europe/Andorra",
+    "tzs": [
+      {
+        "id": "Europe/Andorra",
+        "name": "Europe/Andorra",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AO",
+    "currencyId": "AOA",
+    "currencys": [
+      {
+        "id": "AOA",
+        "name": "AOA",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "244",
+    "isActive": true,
+    "name": "Angola",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AG",
+    "currencyId": "XCD",
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 268",
+    "isActive": true,
+    "name": "Antigua and Barbuda",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AR",
+    "currencyId": "ARS",
+    "currencys": [
+      {
+        "id": "ARS",
+        "name": "ARS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "54",
+    "isActive": true,
+    "name": "Argentina",
+    "tzId": "America/Argentina/Ushuaia",
+    "tzs": [
+      {
+        "id": "America/Argentina/Buenos_Aires",
+        "name": "America/Argentina/Buenos_Aires",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Cordoba",
+        "name": "America/Argentina/Cordoba",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Salta",
+        "name": "America/Argentina/Salta",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Jujuy",
+        "name": "America/Argentina/Jujuy",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Tucuman",
+        "name": "America/Argentina/Tucuman",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Catamarca",
+        "name": "America/Argentina/Catamarca",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/La_Rioja",
+        "name": "America/Argentina/La_Rioja",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/San_Juan",
+        "name": "America/Argentina/San_Juan",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Mendoza",
+        "name": "America/Argentina/Mendoza",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/San_Luis",
+        "name": "America/Argentina/San_Luis",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Rio_Gallegos",
+        "name": "America/Argentina/Rio_Gallegos",
+        "isDefault": true
+      },
+      {
+        "id": "America/Argentina/Ushuaia",
+        "name": "America/Argentina/Ushuaia",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AM",
+    "currencyId": "AMD",
+    "currencys": [
+      {
+        "id": "AMD",
+        "name": "AMD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "374",
+    "isActive": true,
+    "name": "Armenia",
+    "tzId": "Asia/Yerevan",
+    "tzs": [
+      {
+        "id": "Asia/Yerevan",
+        "name": "Asia/Yerevan",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AU",
+    "currencyId": "AUD",
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "61",
+    "isActive": true,
+    "name": "Australia",
+    "tzId": "Australia/Eucla",
+    "tzs": [
+      {
+        "id": "Australia/Lord_Howe",
+        "name": "Australia/Lord_Howe",
+        "isDefault": false
+      },
+      {
+        "id": "Antarctica/Macquarie",
+        "name": "Antarctica/Macquarie",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Hobart",
+        "name": "Australia/Hobart",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Currie",
+        "name": "Australia/Currie",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Melbourne",
+        "name": "Australia/Melbourne",
+        "isDefault": true
+      },
+      {
+        "id": "Australia/Sydney",
+        "name": "Australia/Sydney",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Broken_Hill",
+        "name": "Australia/Broken_Hill",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Brisbane",
+        "name": "Australia/Brisbane",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Lindeman",
+        "name": "Australia/Lindeman",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Adelaide",
+        "name": "Australia/Adelaide",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Darwin",
+        "name": "Australia/Darwin",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Perth",
+        "name": "Australia/Perth",
+        "isDefault": false
+      },
+      {
+        "id": "Australia/Eucla",
+        "name": "Australia/Eucla",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "id": "AT",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "43",
+    "isActive": true,
+    "name": "Austria",
+    "tzId": "Europe/Vienna",
+    "tzs": [
+      {
+        "id": "Europe/Vienna",
+        "name": "Europe/Vienna",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AZ",
+    "currencyId": "AZN",
+    "currencys": [
+      {
+        "id": "AZN",
+        "name": "AZN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "994",
+    "isActive": true,
+    "name": "Azerbaijan",
+    "tzId": "Asia/Baku",
+    "tzs": [
+      {
+        "id": "Asia/Baku",
+        "name": "Asia/Baku",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BS",
+    "currencyId": "BSD",
+    "currencys": [
+      {
+        "id": "BSD",
+        "name": "BSD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 242",
+    "isActive": true,
+    "name": "The Bahamas",
+    "tzId": "America/Nassau",
+    "tzs": [
+      {
+        "id": "America/Nassau",
+        "name": "America/Nassau",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BH",
+    "currencyId": "BHD",
+    "currencys": [
+      {
+        "id": "BHD",
+        "name": "BHD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "973",
+    "isActive": true,
+    "name": "Bahrain",
+    "tzId": "Asia/Qatar",
+    "tzs": [
+      {
+        "id": "Asia/Qatar",
+        "name": "Asia/Qatar",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BD",
+    "currencyId": "BDT",
+    "currencys": [
+      {
+        "id": "BDT",
+        "name": "BDT",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "880",
+    "isActive": true,
+    "name": "Bangladesh",
+    "tzId": "Asia/Dhaka",
+    "tzs": [
+      {
+        "id": "Asia/Dhaka",
+        "name": "Asia/Dhaka",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BB",
+    "currencyId": "BBD",
+    "currencys": [
+      {
+        "id": "BBD",
+        "name": "BBD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 246",
+    "isActive": true,
+    "name": "Barbados",
+    "tzId": "America/Barbados",
+    "tzs": [
+      {
+        "id": "America/Barbados",
+        "name": "America/Barbados",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BY",
+    "currencys": [],
+    "dialCode": null,
+    "isActive": true,
+    "name": "Belarus",
+    "tzId": "Europe/Minsk",
+    "tzs": [
+      {
+        "id": "Europe/Minsk",
+        "name": "Europe/Minsk",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BE",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "32",
+    "isActive": true,
+    "name": "Belgium",
+    "tzId": "Europe/Brussels",
+    "tzs": [
+      {
+        "id": "Europe/Brussels",
+        "name": "Europe/Brussels",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BZ",
+    "currencyId": "BZD",
+    "currencys": [
+      {
+        "id": "BZD",
+        "name": "BZD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "501",
+    "isActive": true,
+    "name": "Belize",
+    "tzId": "America/Belize",
+    "tzs": [
+      {
+        "id": "America/Belize",
+        "name": "America/Belize",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BJ",
+    "currencyId": "XOF",
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "229",
+    "isActive": true,
+    "name": "Benin",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BT",
+    "currencyId": "INR",
+    "currencys": [
+      {
+        "id": "INR",
+        "name": "INR",
+        "isDefault": true
+      },
+      {
+        "id": "BTN",
+        "name": "BTN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "975",
+    "isActive": true,
+    "name": "Bhutan",
+    "tzId": "Asia/Thimphu",
+    "tzs": [
+      {
+        "id": "Asia/Thimphu",
+        "name": "Asia/Thimphu",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BO",
+    "currencyId": "BOB",
+    "currencys": [
+      {
+        "id": "BOB",
+        "name": "BOB",
+        "isDefault": true
+      },
+      {
+        "id": "BOV",
+        "name": "BOV",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "591",
+    "isActive": true,
+    "name": "Bolivia",
+    "tzId": "America/La_Paz",
+    "tzs": [
+      {
+        "id": "America/La_Paz",
+        "name": "America/La_Paz",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BA",
+    "currencyId": "BAM",
+    "currencys": [
+      {
+        "id": "BAM",
+        "name": "BAM",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "387",
+    "isActive": true,
+    "name": "Bosnia and Herzegovina",
+    "tzId": "Europe/Belgrade",
+    "tzs": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BW",
+    "currencyId": "BWP",
+    "currencys": [
+      {
+        "id": "BWP",
+        "name": "BWP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "267",
+    "isActive": true,
+    "name": "Botswana",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BR",
+    "currencyId": "BRL",
+    "currencys": [
+      {
+        "id": "BRL",
+        "name": "BRL",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "55",
+    "isActive": true,
+    "name": "Brazil",
+    "tzId": "America/Rio_Branco",
+    "tzs": [
+      {
+        "id": "America/Noronha",
+        "name": "America/Noronha",
+        "isDefault": true
+      },
+      {
+        "id": "America/Belem",
+        "name": "America/Belem",
+        "isDefault": true
+      },
+      {
+        "id": "America/Fortaleza",
+        "name": "America/Fortaleza",
+        "isDefault": true
+      },
+      {
+        "id": "America/Recife",
+        "name": "America/Recife",
+        "isDefault": true
+      },
+      {
+        "id": "America/Araguaina",
+        "name": "America/Araguaina",
+        "isDefault": true
+      },
+      {
+        "id": "America/Maceio",
+        "name": "America/Maceio",
+        "isDefault": true
+      },
+      {
+        "id": "America/Bahia",
+        "name": "America/Bahia",
+        "isDefault": true
+      },
+      {
+        "id": "America/Sao_Paulo",
+        "name": "America/Sao_Paulo",
+        "isDefault": true
+      },
+      {
+        "id": "America/Campo_Grande",
+        "name": "America/Campo_Grande",
+        "isDefault": true
+      },
+      {
+        "id": "America/Cuiaba",
+        "name": "America/Cuiaba",
+        "isDefault": true
+      },
+      {
+        "id": "America/Santarem",
+        "name": "America/Santarem",
+        "isDefault": true
+      },
+      {
+        "id": "America/Porto_Velho",
+        "name": "America/Porto_Velho",
+        "isDefault": true
+      },
+      {
+        "id": "America/Boa_Vista",
+        "name": "America/Boa_Vista",
+        "isDefault": true
+      },
+      {
+        "id": "America/Manaus",
+        "name": "America/Manaus",
+        "isDefault": true
+      },
+      {
+        "id": "America/Eirunepe",
+        "name": "America/Eirunepe",
+        "isDefault": true
+      },
+      {
+        "id": "America/Rio_Branco",
+        "name": "America/Rio_Branco",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BN",
+    "currencyId": "BND",
+    "currencys": [
+      {
+        "id": "BND",
+        "name": "BND",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "673",
+    "isActive": true,
+    "name": "Brunei",
+    "tzId": "Asia/Brunei",
+    "tzs": [
+      {
+        "id": "Asia/Brunei",
+        "name": "Asia/Brunei",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BG",
+    "currencyId": "BGN",
+    "currencys": [
+      {
+        "id": "BGN",
+        "name": "BGN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "359",
+    "isActive": true,
+    "name": "Bulgaria",
+    "tzId": "Europe/Sofia",
+    "tzs": [
+      {
+        "id": "Europe/Sofia",
+        "name": "Europe/Sofia",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "BI",
+    "currencyId": "BIF",
+    "currencys": [
+      {
+        "id": "BIF",
+        "name": "BIF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "257",
+    "isActive": true,
+    "name": "Burundi",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KH",
+    "currencyId": "KHR",
+    "currencys": [
+      {
+        "id": "KHR",
+        "name": "KHR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "855",
+    "isActive": true,
+    "name": "Cambodia",
+    "tzId": "Asia/Bangkok",
+    "tzs": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CM",
+    "currencyId": "XAF",
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "237",
+    "isActive": true,
+    "name": "Cameroon",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CA",
+    "currencyId": "CAD",
+    "currencys": [
+      {
+        "id": "CAD",
+        "name": "CAD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1",
+    "isActive": true,
+    "name": "Canada",
+    "tzId": "America/Dawson",
+    "tzs": [
+      {
+        "id": "America/St_Johns",
+        "name": "America/St_Johns",
+        "isDefault": true
+      },
+      {
+        "id": "America/Halifax",
+        "name": "America/Halifax",
+        "isDefault": true
+      },
+      {
+        "id": "America/Glace_Bay",
+        "name": "America/Glace_Bay",
+        "isDefault": true
+      },
+      {
+        "id": "America/Moncton",
+        "name": "America/Moncton",
+        "isDefault": true
+      },
+      {
+        "id": "America/Goose_Bay",
+        "name": "America/Goose_Bay",
+        "isDefault": true
+      },
+      {
+        "id": "America/Blanc-Sablon",
+        "name": "America/Blanc-Sablon",
+        "isDefault": true
+      },
+      {
+        "id": "America/Toronto",
+        "name": "America/Toronto",
+        "isDefault": true
+      },
+      {
+        "id": "America/Nipigon",
+        "name": "America/Nipigon",
+        "isDefault": true
+      },
+      {
+        "id": "America/Thunder_Bay",
+        "name": "America/Thunder_Bay",
+        "isDefault": true
+      },
+      {
+        "id": "America/Iqaluit",
+        "name": "America/Iqaluit",
+        "isDefault": true
+      },
+      {
+        "id": "America/Pangnirtung",
+        "name": "America/Pangnirtung",
+        "isDefault": true
+      },
+      {
+        "id": "America/Resolute",
+        "name": "America/Resolute",
+        "isDefault": true
+      },
+      {
+        "id": "America/Atikokan",
+        "name": "America/Atikokan",
+        "isDefault": true
+      },
+      {
+        "id": "America/Rankin_Inlet",
+        "name": "America/Rankin_Inlet",
+        "isDefault": true
+      },
+      {
+        "id": "America/Winnipeg",
+        "name": "America/Winnipeg",
+        "isDefault": true
+      },
+      {
+        "id": "America/Rainy_River",
+        "name": "America/Rainy_River",
+        "isDefault": true
+      },
+      {
+        "id": "America/Regina",
+        "name": "America/Regina",
+        "isDefault": true
+      },
+      {
+        "id": "America/Swift_Current",
+        "name": "America/Swift_Current",
+        "isDefault": true
+      },
+      {
+        "id": "America/Edmonton",
+        "name": "America/Edmonton",
+        "isDefault": true
+      },
+      {
+        "id": "America/Cambridge_Bay",
+        "name": "America/Cambridge_Bay",
+        "isDefault": true
+      },
+      {
+        "id": "America/Yellowknife",
+        "name": "America/Yellowknife",
+        "isDefault": true
+      },
+      {
+        "id": "America/Inuvik",
+        "name": "America/Inuvik",
+        "isDefault": true
+      },
+      {
+        "id": "America/Creston",
+        "name": "America/Creston",
+        "isDefault": true
+      },
+      {
+        "id": "America/Dawson_Creek",
+        "name": "America/Dawson_Creek",
+        "isDefault": true
+      },
+      {
+        "id": "America/Fort_Nelson",
+        "name": "America/Fort_Nelson",
+        "isDefault": true
+      },
+      {
+        "id": "America/Vancouver",
+        "name": "America/Vancouver",
+        "isDefault": true
+      },
+      {
+        "id": "America/Whitehorse",
+        "name": "America/Whitehorse",
+        "isDefault": true
+      },
+      {
+        "id": "America/Dawson",
+        "name": "America/Dawson",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CV",
+    "currencyId": "CVE",
+    "currencys": [
+      {
+        "id": "CVE",
+        "name": "CVE",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "238",
+    "isActive": true,
+    "name": "Cape Verde",
+    "tzId": "Atlantic/Cape_Verde",
+    "tzs": [
+      {
+        "id": "Atlantic/Cape_Verde",
+        "name": "Atlantic/Cape_Verde",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CF",
+    "currencyId": "XAF",
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "236",
+    "isActive": true,
+    "name": "Central African Republic",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TD",
+    "currencyId": "XAF",
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "235",
+    "isActive": true,
+    "name": "Chad",
+    "tzId": "Africa/Ndjamena",
+    "tzs": [
+      {
+        "id": "Africa/Ndjamena",
+        "name": "Africa/Ndjamena",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CL",
+    "currencyId": "CLP",
+    "currencys": [
+      {
+        "id": "CLP",
+        "name": "CLP",
+        "isDefault": true
+      },
+      {
+        "id": "CLF",
+        "name": "CLF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "56",
+    "isActive": true,
+    "name": "Chile",
+    "tzId": "Pacific/Easter",
+    "tzs": [
+      {
+        "id": "America/Santiago",
+        "name": "America/Santiago",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Easter",
+        "name": "Pacific/Easter",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CN",
+    "currencyId": "CNY",
+    "currencys": [
+      {
+        "id": "CNY",
+        "name": "CNY",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "86",
+    "isActive": true,
+    "name": "China",
+    "tzId": "Asia/Urumqi",
+    "tzs": [
+      {
+        "id": "Asia/Shanghai",
+        "name": "Asia/Shanghai",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Urumqi",
+        "name": "Asia/Urumqi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CO",
+    "currencyId": "COP",
+    "currencys": [
+      {
+        "id": "COP",
+        "name": "COP",
+        "isDefault": true
+      },
+      {
+        "id": "COU",
+        "name": "COU",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "57",
+    "isActive": true,
+    "name": "Colombia",
+    "tzId": "America/Bogota",
+    "tzs": [
+      {
+        "id": "America/Bogota",
+        "name": "America/Bogota",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KM",
+    "currencyId": "KMF",
+    "currencys": [
+      {
+        "id": "KMF",
+        "name": "KMF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "269",
+    "isActive": true,
+    "name": "Comoros",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CG",
+    "currencyId": "XAF",
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "242",
+    "isActive": true,
+    "name": "Republic of the Congo",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CD",
+    "currencyId": "CDF",
+    "currencys": [
+      {
+        "id": "CDF",
+        "name": "CDF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "243",
+    "isActive": true,
+    "name": "Democratic Republic of the Congo",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      },
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CR",
+    "currencyId": "CRC",
+    "currencys": [
+      {
+        "id": "CRC",
+        "name": "CRC",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "506",
+    "isActive": true,
+    "name": "Costa Rica",
+    "tzId": "America/Costa_Rica",
+    "tzs": [
+      {
+        "id": "America/Costa_Rica",
+        "name": "America/Costa_Rica",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "HR",
+    "currencyId": "HRK",
+    "currencys": [
+      {
+        "id": "HRK",
+        "name": "HRK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "385",
+    "isActive": true,
+    "name": "Croatia",
+    "tzId": "Europe/Belgrade",
+    "tzs": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CU",
+    "currencyId": "CUP",
+    "currencys": [
+      {
+        "id": "CUP",
+        "name": "CUP",
+        "isDefault": true
+      },
+      {
+        "id": "CUC",
+        "name": "CUC",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "53",
+    "isActive": true,
+    "name": "Cuba",
+    "tzId": "America/Havana",
+    "tzs": [
+      {
+        "id": "America/Havana",
+        "name": "America/Havana",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CY",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "357",
+    "isActive": true,
+    "name": "Cyprus",
+    "tzId": "Asia/Nicosia",
+    "tzs": [
+      {
+        "id": "Asia/Nicosia",
+        "name": "Asia/Nicosia",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CZ",
+    "currencyId": "CZK",
+    "currencys": [
+      {
+        "id": "CZK",
+        "name": "CZK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "420",
+    "isActive": true,
+    "name": "Czech Republic",
+    "tzId": "Europe/Prague",
+    "tzs": [
+      {
+        "id": "Europe/Prague",
+        "name": "Europe/Prague",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "DK",
+    "currencyId": "DKK",
+    "currencys": [
+      {
+        "id": "DKK",
+        "name": "DKK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "45",
+    "isActive": true,
+    "name": "Denmark",
+    "tzId": "Europe/Copenhagen",
+    "tzs": [
+      {
+        "id": "Europe/Copenhagen",
+        "name": "Europe/Copenhagen",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "DJ",
+    "currencyId": "DJF",
+    "currencys": [
+      {
+        "id": "DJF",
+        "name": "DJF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "253",
+    "isActive": true,
+    "name": "Djibouti",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "DM",
+    "currencyId": "XCD",
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 767",
+    "isActive": true,
+    "name": "Dominica",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "DO",
+    "currencyId": "DOP",
+    "currencys": [
+      {
+        "id": "DOP",
+        "name": "DOP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 809",
+    "isActive": true,
+    "name": "Dominican Republic",
+    "tzId": "America/Santo_Domingo",
+    "tzs": [
+      {
+        "id": "America/Santo_Domingo",
+        "name": "America/Santo_Domingo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "EC",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "593",
+    "isActive": true,
+    "name": "Ecuador",
+    "tzId": "Pacific/Galapagos",
+    "tzs": [
+      {
+        "id": "America/Guayaquil",
+        "name": "America/Guayaquil",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Galapagos",
+        "name": "Pacific/Galapagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "EG",
+    "currencyId": "EGP",
+    "currencys": [
+      {
+        "id": "EGP",
+        "name": "EGP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "20",
+    "isActive": true,
+    "name": "Egypt",
+    "tzId": "Africa/Cairo",
+    "tzs": [
+      {
+        "id": "Africa/Cairo",
+        "name": "Africa/Cairo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SV",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "503",
+    "isActive": true,
+    "name": "El Salvador",
+    "tzId": "America/El_Salvador",
+    "tzs": [
+      {
+        "id": "America/El_Salvador",
+        "name": "America/El_Salvador",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GQ",
+    "currencyId": "XAF",
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "240",
+    "isActive": true,
+    "name": "Equatorial Guinea",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ER",
+    "currencyId": "ERN",
+    "currencys": [
+      {
+        "id": "ERN",
+        "name": "ERN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "291",
+    "isActive": true,
+    "name": "Eritrea",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "EE",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "372",
+    "isActive": true,
+    "name": "Estonia",
+    "tzId": "Europe/Tallinn",
+    "tzs": [
+      {
+        "id": "Europe/Tallinn",
+        "name": "Europe/Tallinn",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ET",
+    "currencyId": "ETB",
+    "currencys": [
+      {
+        "id": "ETB",
+        "name": "ETB",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "251",
+    "isActive": true,
+    "name": "Ethiopia",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "FJ",
+    "currencyId": "FJD",
+    "currencys": [
+      {
+        "id": "FJD",
+        "name": "FJD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "679",
+    "isActive": true,
+    "name": "Fiji",
+    "tzId": "Pacific/Fiji",
+    "tzs": [
+      {
+        "id": "Pacific/Fiji",
+        "name": "Pacific/Fiji",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "FI",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "358",
+    "isActive": true,
+    "name": "Finland",
+    "tzId": "Europe/Helsinki",
+    "tzs": [
+      {
+        "id": "Europe/Helsinki",
+        "name": "Europe/Helsinki",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "FR",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "33",
+    "isActive": true,
+    "name": "France",
+    "tzId": "Europe/Paris",
+    "tzs": [
+      {
+        "id": "Europe/Paris",
+        "name": "Europe/Paris",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GA",
+    "currencyId": "XAF",
+    "currencys": [
+      {
+        "id": "XAF",
+        "name": "XAF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "241",
+    "isActive": true,
+    "name": "Gabon",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GM",
+    "currencyId": "GMD",
+    "currencys": [
+      {
+        "id": "GMD",
+        "name": "GMD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "220",
+    "isActive": true,
+    "name": "The Gambia",
+    "tzId": "Africa/Abidjan",
+    "tzs": [
+      {
+        "id": "Africa/Abidjan",
+        "name": "Africa/Abidjan",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GE",
+    "currencys": [],
+    "dialCode": null,
+    "isActive": true,
+    "name": "Georgia",
+    "tzId": "Asia/Tbilisi",
+    "tzs": [
+      {
+        "id": "Asia/Tbilisi",
+        "name": "Asia/Tbilisi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "DE",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "49",
+    "isActive": true,
+    "name": "Germany",
+    "tzId": "Europe/Berlin",
+    "tzs": [
+      {
+        "id": "Europe/Zurich",
+        "name": "Europe/Zurich",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Berlin",
+        "name": "Europe/Berlin",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GR",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "30",
+    "isActive": true,
+    "name": "Greece",
+    "tzId": "Europe/Athens",
+    "tzs": [
+      {
+        "id": "Europe/Athens",
+        "name": "Europe/Athens",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GD",
+    "currencyId": "XCD",
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "473",
+    "isActive": true,
+    "name": "Grenada",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GT",
+    "currencyId": "GTQ",
+    "currencys": [
+      {
+        "id": "GTQ",
+        "name": "GTQ",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "502",
+    "isActive": true,
+    "name": "Guatemala",
+    "tzId": "America/Guatemala",
+    "tzs": [
+      {
+        "id": "America/Guatemala",
+        "name": "America/Guatemala",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GY",
+    "currencyId": "GYD",
+    "currencys": [
+      {
+        "id": "GYD",
+        "name": "GYD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "592",
+    "isActive": true,
+    "name": "Guyana",
+    "tzId": "America/Guyana",
+    "tzs": [
+      {
+        "id": "America/Guyana",
+        "name": "America/Guyana",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "HT",
+    "currencyId": "HTG",
+    "currencys": [
+      {
+        "id": "HTG",
+        "name": "HTG",
+        "isDefault": true
+      },
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "509",
+    "isActive": true,
+    "name": "Haiti",
+    "tzId": "America/Port-au-Prince",
+    "tzs": [
+      {
+        "id": "America/Port-au-Prince",
+        "name": "America/Port-au-Prince",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "HN",
+    "currencyId": "HNL",
+    "currencys": [
+      {
+        "id": "HNL",
+        "name": "HNL",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "504",
+    "isActive": true,
+    "name": "Honduras",
+    "tzId": "America/Tegucigalpa",
+    "tzs": [
+      {
+        "id": "America/Tegucigalpa",
+        "name": "America/Tegucigalpa",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "HK",
+    "currencyId": "HKD",
+    "currencys": [
+      {
+        "id": "HKD",
+        "name": "HKD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "852",
+    "isActive": true,
+    "name": "Hong Kong",
+    "tzId": "Asia/Hong_Kong",
+    "tzs": [
+      {
+        "id": "Asia/Hong_Kong",
+        "name": "Asia/Hong_Kong",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "HU",
+    "currencyId": "HUF",
+    "currencys": [
+      {
+        "id": "HUF",
+        "name": "HUF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "36",
+    "isActive": true,
+    "name": "Hungary",
+    "tzId": "Europe/Budapest",
+    "tzs": [
+      {
+        "id": "Europe/Budapest",
+        "name": "Europe/Budapest",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "IN",
+    "currencyId": "INR",
+    "currencys": [
+      {
+        "id": "INR",
+        "name": "INR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "91",
+    "isActive": true,
+    "name": "India",
+    "tzId": "Asia/Kolkata",
+    "tzs": [
+      {
+        "id": "Asia/Kolkata",
+        "name": "Asia/Kolkata",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ID",
+    "currencyId": "IDR",
+    "currencys": [
+      {
+        "id": "IDR",
+        "name": "IDR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "62",
+    "isActive": true,
+    "name": "Indonesia",
+    "tzId": "Asia/Jayapura",
+    "tzs": [
+      {
+        "id": "Asia/Jakarta",
+        "name": "Asia/Jakarta",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Pontianak",
+        "name": "Asia/Pontianak",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Makassar",
+        "name": "Asia/Makassar",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Jayapura",
+        "name": "Asia/Jayapura",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "IR",
+    "currencyId": "IRR",
+    "currencys": [
+      {
+        "id": "IRR",
+        "name": "IRR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "98",
+    "isActive": true,
+    "name": "Iran",
+    "tzId": "Asia/Tehran",
+    "tzs": [
+      {
+        "id": "Asia/Tehran",
+        "name": "Asia/Tehran",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "IQ",
+    "currencyId": "IQD",
+    "currencys": [
+      {
+        "id": "IQD",
+        "name": "IQD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "964",
+    "isActive": true,
+    "name": "Iraq",
+    "tzId": "Asia/Baghdad",
+    "tzs": [
+      {
+        "id": "Asia/Baghdad",
+        "name": "Asia/Baghdad",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "IL",
+    "currencyId": "ILS",
+    "currencys": [
+      {
+        "id": "ILS",
+        "name": "ILS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "972",
+    "isActive": true,
+    "name": "Israel",
+    "tzId": "Asia/Jerusalem",
+    "tzs": [
+      {
+        "id": "Asia/Jerusalem",
+        "name": "Asia/Jerusalem",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "IT",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "39",
+    "isActive": true,
+    "name": "Italy",
+    "tzId": "Europe/Rome",
+    "tzs": [
+      {
+        "id": "Europe/Rome",
+        "name": "Europe/Rome",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "JM",
+    "currencyId": "JMD",
+    "currencys": [
+      {
+        "id": "JMD",
+        "name": "JMD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 876",
+    "isActive": true,
+    "name": "Jamaica",
+    "tzId": "America/Jamaica",
+    "tzs": [
+      {
+        "id": "America/Jamaica",
+        "name": "America/Jamaica",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "JP",
+    "currencyId": "JPY",
+    "currencys": [
+      {
+        "id": "JPY",
+        "name": "JPY",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "81",
+    "isActive": true,
+    "name": "Japan",
+    "tzId": "Asia/Tokyo",
+    "tzs": [
+      {
+        "id": "Asia/Tokyo",
+        "name": "Asia/Tokyo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "JO",
+    "currencyId": "JOD",
+    "currencys": [
+      {
+        "id": "JOD",
+        "name": "JOD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "962",
+    "isActive": true,
+    "name": "Jordan",
+    "tzId": "Asia/Amman",
+    "tzs": [
+      {
+        "id": "Asia/Amman",
+        "name": "Asia/Amman",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KZ",
+    "currencyId": "KZT",
+    "currencys": [
+      {
+        "id": "KZT",
+        "name": "KZT",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "7",
+    "isActive": true,
+    "name": "Kazakhstan",
+    "tzId": "Asia/Oral",
+    "tzs": [
+      {
+        "id": "Asia/Almaty",
+        "name": "Asia/Almaty",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Qyzylorda",
+        "name": "Asia/Qyzylorda",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Aqtobe",
+        "name": "Asia/Aqtobe",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Aqtau",
+        "name": "Asia/Aqtau",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Oral",
+        "name": "Asia/Oral",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KE",
+    "currencyId": "KES",
+    "currencys": [
+      {
+        "id": "KES",
+        "name": "KES",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "254",
+    "isActive": true,
+    "name": "Kenya",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KI",
+    "currencyId": "AUD",
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "686",
+    "isActive": true,
+    "name": "Kiribati",
+    "tzId": "Pacific/Kiritimati",
+    "tzs": [
+      {
+        "id": "Pacific/Tarawa",
+        "name": "Pacific/Tarawa",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Enderbury",
+        "name": "Pacific/Enderbury",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Kiritimati",
+        "name": "Pacific/Kiritimati",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KW",
+    "currencyId": "KWD",
+    "currencys": [
+      {
+        "id": "KWD",
+        "name": "KWD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "965",
+    "isActive": true,
+    "name": "Kuwait",
+    "tzId": "Asia/Riyadh",
+    "tzs": [
+      {
+        "id": "Asia/Riyadh",
+        "name": "Asia/Riyadh",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KG",
+    "currencyId": "KGS",
+    "currencys": [
+      {
+        "id": "KGS",
+        "name": "KGS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "996",
+    "isActive": true,
+    "name": "Kyrgyzstan",
+    "tzId": "Asia/Bishkek",
+    "tzs": [
+      {
+        "id": "Asia/Bishkek",
+        "name": "Asia/Bishkek",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LA",
+    "currencyId": "LAK",
+    "currencys": [
+      {
+        "id": "LAK",
+        "name": "LAK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "856",
+    "isActive": true,
+    "name": "Laos",
+    "tzId": "Asia/Bangkok",
+    "tzs": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LV",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "371",
+    "isActive": true,
+    "name": "Latvia",
+    "tzId": "Europe/Riga",
+    "tzs": [
+      {
+        "id": "Europe/Riga",
+        "name": "Europe/Riga",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LB",
+    "currencyId": "LBP",
+    "currencys": [
+      {
+        "id": "LBP",
+        "name": "LBP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "961",
+    "isActive": true,
+    "name": "Lebanon",
+    "tzId": "Asia/Beirut",
+    "tzs": [
+      {
+        "id": "Asia/Beirut",
+        "name": "Asia/Beirut",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LS",
+    "currencyId": "LSL",
+    "currencys": [
+      {
+        "id": "LSL",
+        "name": "LSL",
+        "isDefault": true
+      },
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "266",
+    "isActive": true,
+    "name": "Lesotho",
+    "tzId": "Africa/Johannesburg",
+    "tzs": [
+      {
+        "id": "Africa/Johannesburg",
+        "name": "Africa/Johannesburg",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LY",
+    "currencyId": "LYD",
+    "currencys": [
+      {
+        "id": "LYD",
+        "name": "LYD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "218",
+    "isActive": true,
+    "name": "Libya",
+    "tzId": "Africa/Tripoli",
+    "tzs": [
+      {
+        "id": "Africa/Tripoli",
+        "name": "Africa/Tripoli",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LI",
+    "currencyId": "CHF",
+    "currencys": [
+      {
+        "id": "CHF",
+        "name": "CHF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "423",
+    "isActive": true,
+    "name": "Liechtenstein",
+    "tzId": "Europe/Zurich",
+    "tzs": [
+      {
+        "id": "Europe/Zurich",
+        "name": "Europe/Zurich",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LT",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "370",
+    "isActive": true,
+    "name": "Lithuania",
+    "tzId": "Europe/Vilnius",
+    "tzs": [
+      {
+        "id": "Europe/Vilnius",
+        "name": "Europe/Vilnius",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LU",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "352",
+    "isActive": true,
+    "name": "Luxembourg",
+    "tzId": "Europe/Luxembourg",
+    "tzs": [
+      {
+        "id": "Europe/Luxembourg",
+        "name": "Europe/Luxembourg",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MO",
+    "currencyId": "MOP",
+    "currencys": [
+      {
+        "id": "MOP",
+        "name": "MOP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "853",
+    "isActive": true,
+    "name": "Macau",
+    "tzId": "Asia/Macau",
+    "tzs": [
+      {
+        "id": "Asia/Macau",
+        "name": "Asia/Macau",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MK",
+    "currencyId": "MKD",
+    "currencys": [
+      {
+        "id": "MKD",
+        "name": "MKD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "389",
+    "isActive": true,
+    "name": "Republic of Macedonia",
+    "tzId": "Europe/Belgrade",
+    "tzs": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MG",
+    "currencyId": "MGA",
+    "currencys": [
+      {
+        "id": "MGA",
+        "name": "MGA",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "261",
+    "isActive": true,
+    "name": "Madagascar",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MW",
+    "currencyId": "MWK",
+    "currencys": [
+      {
+        "id": "MWK",
+        "name": "MWK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "265",
+    "isActive": true,
+    "name": "Malawi",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MY",
+    "currencyId": "MYR",
+    "currencys": [
+      {
+        "id": "MYR",
+        "name": "MYR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "60",
+    "isActive": true,
+    "name": "Malaysia",
+    "tzId": "Asia/Kuching",
+    "tzs": [
+      {
+        "id": "Asia/Kuala_Lumpur",
+        "name": "Asia/Kuala_Lumpur",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Kuching",
+        "name": "Asia/Kuching",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MV",
+    "currencyId": "MVR",
+    "currencys": [
+      {
+        "id": "MVR",
+        "name": "MVR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "960",
+    "isActive": true,
+    "name": "Maldives",
+    "tzId": "Indian/Maldives",
+    "tzs": [
+      {
+        "id": "Indian/Maldives",
+        "name": "Indian/Maldives",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MT",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "356",
+    "isActive": true,
+    "name": "Malta",
+    "tzId": "Europe/Malta",
+    "tzs": [
+      {
+        "id": "Europe/Malta",
+        "name": "Europe/Malta",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MH",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "692",
+    "isActive": true,
+    "name": "Marshall Islands",
+    "tzId": "Pacific/Kwajalein",
+    "tzs": [
+      {
+        "id": "Pacific/Majuro",
+        "name": "Pacific/Majuro",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Kwajalein",
+        "name": "Pacific/Kwajalein",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MU",
+    "currencyId": "MUR",
+    "currencys": [
+      {
+        "id": "MUR",
+        "name": "MUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "230",
+    "isActive": true,
+    "name": "Mauritius",
+    "tzId": "Indian/Mauritius",
+    "tzs": [
+      {
+        "id": "Indian/Mauritius",
+        "name": "Indian/Mauritius",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MX",
+    "currencyId": "MXN",
+    "currencys": [
+      {
+        "id": "MXN",
+        "name": "MXN",
+        "isDefault": true
+      },
+      {
+        "id": "MXV",
+        "name": "MXV",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "52",
+    "isActive": true,
+    "name": "Mexico",
+    "tzId": "America/Bahia_Banderas",
+    "tzs": [
+      {
+        "id": "America/Mexico_City",
+        "name": "America/Mexico_City",
+        "isDefault": true
+      },
+      {
+        "id": "America/Cancun",
+        "name": "America/Cancun",
+        "isDefault": true
+      },
+      {
+        "id": "America/Merida",
+        "name": "America/Merida",
+        "isDefault": true
+      },
+      {
+        "id": "America/Monterrey",
+        "name": "America/Monterrey",
+        "isDefault": true
+      },
+      {
+        "id": "America/Matamoros",
+        "name": "America/Matamoros",
+        "isDefault": true
+      },
+      {
+        "id": "America/Mazatlan",
+        "name": "America/Mazatlan",
+        "isDefault": true
+      },
+      {
+        "id": "America/Chihuahua",
+        "name": "America/Chihuahua",
+        "isDefault": true
+      },
+      {
+        "id": "America/Ojinaga",
+        "name": "America/Ojinaga",
+        "isDefault": true
+      },
+      {
+        "id": "America/Hermosillo",
+        "name": "America/Hermosillo",
+        "isDefault": true
+      },
+      {
+        "id": "America/Tijuana",
+        "name": "America/Tijuana",
+        "isDefault": true
+      },
+      {
+        "id": "America/Santa_Isabel",
+        "name": "America/Santa_Isabel",
+        "isDefault": true
+      },
+      {
+        "id": "America/Bahia_Banderas",
+        "name": "America/Bahia_Banderas",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "FM",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "691",
+    "isActive": true,
+    "name": "Federated States of Micronesia",
+    "tzId": "Pacific/Kosrae",
+    "tzs": [
+      {
+        "id": "Pacific/Chuuk",
+        "name": "Pacific/Chuuk",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Pohnpei",
+        "name": "Pacific/Pohnpei",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Kosrae",
+        "name": "Pacific/Kosrae",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MD",
+    "currencyId": "MDL",
+    "currencys": [
+      {
+        "id": "MDL",
+        "name": "MDL",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "373",
+    "isActive": true,
+    "name": "Moldova",
+    "tzId": "Europe/Chisinau",
+    "tzs": [
+      {
+        "id": "Europe/Chisinau",
+        "name": "Europe/Chisinau",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MC",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "377",
+    "isActive": true,
+    "name": "Monaco",
+    "tzId": "Europe/Monaco",
+    "tzs": [
+      {
+        "id": "Europe/Monaco",
+        "name": "Europe/Monaco",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MN",
+    "currencyId": "MNT",
+    "currencys": [
+      {
+        "id": "MNT",
+        "name": "MNT",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "976",
+    "isActive": true,
+    "name": "Mongolia",
+    "tzId": "Asia/Choibalsan",
+    "tzs": [
+      {
+        "id": "Asia/Ulaanbaatar",
+        "name": "Asia/Ulaanbaatar",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Hovd",
+        "name": "Asia/Hovd",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Choibalsan",
+        "name": "Asia/Choibalsan",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ME",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "382",
+    "isActive": true,
+    "name": "Montenegro",
+    "tzId": "Europe/Belgrade",
+    "tzs": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MZ",
+    "currencyId": "MZN",
+    "currencys": [
+      {
+        "id": "MZN",
+        "name": "MZN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "258",
+    "isActive": true,
+    "name": "Mozambique",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "MM",
+    "currencyId": "MMK",
+    "currencys": [
+      {
+        "id": "MMK",
+        "name": "MMK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "95",
+    "isActive": true,
+    "name": "Myanmar",
+    "tzId": "Asia/Rangoon",
+    "tzs": [
+      {
+        "id": "Asia/Rangoon",
+        "name": "Asia/Rangoon",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NA",
+    "currencyId": "NAD",
+    "currencys": [
+      {
+        "id": "NAD",
+        "name": "NAD",
+        "isDefault": true
+      },
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "264",
+    "isActive": true,
+    "name": "Namibia",
+    "tzId": "Africa/Windhoek",
+    "tzs": [
+      {
+        "id": "Africa/Windhoek",
+        "name": "Africa/Windhoek",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NR",
+    "currencyId": "AUD",
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "674",
+    "isActive": true,
+    "name": "Nauru",
+    "tzId": "Pacific/Nauru",
+    "tzs": [
+      {
+        "id": "Pacific/Nauru",
+        "name": "Pacific/Nauru",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NP",
+    "currencyId": "NPR",
+    "currencys": [
+      {
+        "id": "NPR",
+        "name": "NPR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "977",
+    "isActive": true,
+    "name": "Nepal",
+    "tzId": "Asia/Kathmandu",
+    "tzs": [
+      {
+        "id": "Asia/Kathmandu",
+        "name": "Asia/Kathmandu",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NL",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "31",
+    "isActive": true,
+    "name": "Netherlands",
+    "tzId": "Europe/Amsterdam",
+    "tzs": [
+      {
+        "id": "Europe/Amsterdam",
+        "name": "Europe/Amsterdam",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NZ",
+    "currencyId": "NZD",
+    "currencys": [
+      {
+        "id": "NZD",
+        "name": "NZD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "64",
+    "isActive": true,
+    "name": "New Zealand",
+    "tzId": "Pacific/Chatham",
+    "tzs": [
+      {
+        "id": "Pacific/Auckland",
+        "name": "Pacific/Auckland",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Chatham",
+        "name": "Pacific/Chatham",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NI",
+    "currencyId": "NIO",
+    "currencys": [
+      {
+        "id": "NIO",
+        "name": "NIO",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "505",
+    "isActive": true,
+    "name": "Nicaragua",
+    "tzId": "America/Managua",
+    "tzs": [
+      {
+        "id": "America/Managua",
+        "name": "America/Managua",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NE",
+    "currencyId": "XOF",
+    "currencys": [
+      {
+        "id": "XOF",
+        "name": "XOF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "227",
+    "isActive": true,
+    "name": "Niger",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NG",
+    "currencyId": "NGN",
+    "currencys": [
+      {
+        "id": "NGN",
+        "name": "NGN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "234",
+    "isActive": true,
+    "name": "Nigeria",
+    "tzId": "Africa/Lagos",
+    "tzs": [
+      {
+        "id": "Africa/Lagos",
+        "name": "Africa/Lagos",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KP",
+    "currencyId": "KPW",
+    "currencys": [
+      {
+        "id": "KPW",
+        "name": "KPW",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "850",
+    "isActive": true,
+    "name": "North Korea",
+    "tzId": "Asia/Pyongyang",
+    "tzs": [
+      {
+        "id": "Asia/Pyongyang",
+        "name": "Asia/Pyongyang",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "NO",
+    "currencyId": "NOK",
+    "currencys": [
+      {
+        "id": "NOK",
+        "name": "NOK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "47",
+    "isActive": true,
+    "name": "Norway",
+    "tzId": "Europe/Oslo",
+    "tzs": [
+      {
+        "id": "Europe/Oslo",
+        "name": "Europe/Oslo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "OM",
+    "currencyId": "OMR",
+    "currencys": [
+      {
+        "id": "OMR",
+        "name": "OMR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "968",
+    "isActive": true,
+    "name": "Oman",
+    "tzId": "Asia/Dubai",
+    "tzs": [
+      {
+        "id": "Asia/Dubai",
+        "name": "Asia/Dubai",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PK",
+    "currencyId": "PKR",
+    "currencys": [
+      {
+        "id": "PKR",
+        "name": "PKR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "92",
+    "isActive": true,
+    "name": "Pakistan",
+    "tzId": "Asia/Karachi",
+    "tzs": [
+      {
+        "id": "Asia/Karachi",
+        "name": "Asia/Karachi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PW",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "680",
+    "isActive": true,
+    "name": "Palau",
+    "tzId": "Pacific/Palau",
+    "tzs": [
+      {
+        "id": "Pacific/Palau",
+        "name": "Pacific/Palau",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PA",
+    "currencyId": "PAB",
+    "currencys": [
+      {
+        "id": "PAB",
+        "name": "PAB",
+        "isDefault": true
+      },
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "507",
+    "isActive": true,
+    "name": "Panama",
+    "tzId": "America/Panama",
+    "tzs": [
+      {
+        "id": "America/Panama",
+        "name": "America/Panama",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PG",
+    "currencyId": "PGK",
+    "currencys": [
+      {
+        "id": "PGK",
+        "name": "PGK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "675",
+    "isActive": true,
+    "name": "Papua New Guinea",
+    "tzId": "Pacific/Bougainville",
+    "tzs": [
+      {
+        "id": "Pacific/Port_Moresby",
+        "name": "Pacific/Port_Moresby",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Bougainville",
+        "name": "Pacific/Bougainville",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PY",
+    "currencyId": "PYG",
+    "currencys": [
+      {
+        "id": "PYG",
+        "name": "PYG",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "595",
+    "isActive": true,
+    "name": "Paraguay",
+    "tzId": "America/Asuncion",
+    "tzs": [
+      {
+        "id": "America/Asuncion",
+        "name": "America/Asuncion",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PE",
+    "currencyId": "PEN",
+    "currencys": [
+      {
+        "id": "PEN",
+        "name": "PEN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "51",
+    "isActive": true,
+    "name": "Peru",
+    "tzId": "America/Lima",
+    "tzs": [
+      {
+        "id": "America/Lima",
+        "name": "America/Lima",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PH",
+    "currencyId": "PHP",
+    "currencys": [
+      {
+        "id": "PHP",
+        "name": "PHP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "63",
+    "isActive": true,
+    "name": "Philippines",
+    "tzId": "Asia/Manila",
+    "tzs": [
+      {
+        "id": "Asia/Manila",
+        "name": "Asia/Manila",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "PL",
+    "currencyId": "PLN",
+    "currencys": [
+      {
+        "id": "PLN",
+        "name": "PLN",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "48",
+    "isActive": true,
+    "name": "Poland",
+    "tzId": "Europe/Warsaw",
+    "tzs": [
+      {
+        "id": "Europe/Warsaw",
+        "name": "Europe/Warsaw",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "QA",
+    "currencyId": "QAR",
+    "currencys": [
+      {
+        "id": "QAR",
+        "name": "QAR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "974",
+    "isActive": true,
+    "name": "Qatar",
+    "tzId": "Asia/Qatar",
+    "tzs": [
+      {
+        "id": "Asia/Qatar",
+        "name": "Asia/Qatar",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "XK",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "383",
+    "isActive": true,
+    "name": "Republic of Kosovo",
+    "tzs": [
+      {
+        "id": null,
+        "name": null,
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "RO",
+    "currencyId": "RON",
+    "currencys": [
+      {
+        "id": "RON",
+        "name": "RON",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "40",
+    "isActive": true,
+    "name": "Romania",
+    "tzId": "Europe/Bucharest",
+    "tzs": [
+      {
+        "id": "Europe/Bucharest",
+        "name": "Europe/Bucharest",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "RU",
+    "currencyId": "RUB",
+    "currencys": [
+      {
+        "id": "RUB",
+        "name": "RUB",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "7",
+    "isActive": true,
+    "name": "Russia",
+    "tzId": "Asia/Anadyr",
+    "tzs": [
+      {
+        "id": "Europe/Kaliningrad",
+        "name": "Europe/Kaliningrad",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Moscow",
+        "name": "Europe/Moscow",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Simferopol",
+        "name": "Europe/Simferopol",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Volgograd",
+        "name": "Europe/Volgograd",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Samara",
+        "name": "Europe/Samara",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Yekaterinburg",
+        "name": "Asia/Yekaterinburg",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Omsk",
+        "name": "Asia/Omsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Novosibirsk",
+        "name": "Asia/Novosibirsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Novokuznetsk",
+        "name": "Asia/Novokuznetsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Krasnoyarsk",
+        "name": "Asia/Krasnoyarsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Irkutsk",
+        "name": "Asia/Irkutsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Chita",
+        "name": "Asia/Chita",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Yakutsk",
+        "name": "Asia/Yakutsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Khandyga",
+        "name": "Asia/Khandyga",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Vladivostok",
+        "name": "Asia/Vladivostok",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Sakhalin",
+        "name": "Asia/Sakhalin",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Ust-Nera",
+        "name": "Asia/Ust-Nera",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Magadan",
+        "name": "Asia/Magadan",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Srednekolymsk",
+        "name": "Asia/Srednekolymsk",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Kamchatka",
+        "name": "Asia/Kamchatka",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Anadyr",
+        "name": "Asia/Anadyr",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "RW",
+    "currencyId": "RWF",
+    "currencys": [
+      {
+        "id": "RWF",
+        "name": "RWF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "250",
+    "isActive": true,
+    "name": "Rwanda",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KN",
+    "currencyId": "XCD",
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 869",
+    "isActive": true,
+    "name": "Saint Kitts and Nevis",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LC",
+    "currencyId": "XCD",
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 758",
+    "isActive": true,
+    "name": "Saint Lucia",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "VC",
+    "currencyId": "XCD",
+    "currencys": [
+      {
+        "id": "XCD",
+        "name": "XCD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 784",
+    "isActive": true,
+    "name": "Saint Vincent and the Grenadines",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "WS",
+    "currencyId": "WST",
+    "currencys": [
+      {
+        "id": "WST",
+        "name": "WST",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "685",
+    "isActive": true,
+    "name": "Samoa",
+    "tzId": "Pacific/Apia",
+    "tzs": [
+      {
+        "id": "Pacific/Apia",
+        "name": "Pacific/Apia",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SM",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "378",
+    "isActive": true,
+    "name": "San Marino",
+    "tzId": "Europe/Rome",
+    "tzs": [
+      {
+        "id": "Europe/Rome",
+        "name": "Europe/Rome",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SA",
+    "currencyId": "SAR",
+    "currencys": [
+      {
+        "id": "SAR",
+        "name": "SAR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "966",
+    "isActive": true,
+    "name": "Saudi Arabia",
+    "tzId": "Asia/Riyadh",
+    "tzs": [
+      {
+        "id": "Asia/Riyadh",
+        "name": "Asia/Riyadh",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "RS",
+    "currencyId": "RSD",
+    "currencys": [
+      {
+        "id": "RSD",
+        "name": "RSD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "381",
+    "isActive": true,
+    "name": "Serbia",
+    "tzId": "Europe/Belgrade",
+    "tzs": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SC",
+    "currencyId": "SCR",
+    "currencys": [
+      {
+        "id": "SCR",
+        "name": "SCR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "248",
+    "isActive": true,
+    "name": "Seychelles",
+    "tzId": "Indian/Mahe",
+    "tzs": [
+      {
+        "id": "Indian/Mahe",
+        "name": "Indian/Mahe",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SK",
+    "currencys": [],
+    "dialCode": null,
+    "isActive": true,
+    "name": "Slovakia",
+    "tzId": "Europe/Prague",
+    "tzs": [
+      {
+        "id": "Europe/Prague",
+        "name": "Europe/Prague",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SI",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "386",
+    "isActive": true,
+    "name": "Slovenia",
+    "tzId": "Europe/Belgrade",
+    "tzs": [
+      {
+        "id": "Europe/Belgrade",
+        "name": "Europe/Belgrade",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SB",
+    "currencyId": "SBD",
+    "currencys": [
+      {
+        "id": "SBD",
+        "name": "SBD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "677",
+    "isActive": true,
+    "name": "Solomon Islands",
+    "tzId": "Pacific/Guadalcanal",
+    "tzs": [
+      {
+        "id": "Pacific/Guadalcanal",
+        "name": "Pacific/Guadalcanal",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SO",
+    "currencyId": "SOS",
+    "currencys": [
+      {
+        "id": "SOS",
+        "name": "SOS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "252",
+    "isActive": true,
+    "name": "Somalia",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ZA",
+    "currencyId": "ZAR",
+    "currencys": [
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "27",
+    "isActive": true,
+    "name": "South Africa",
+    "tzId": "Africa/Johannesburg",
+    "tzs": [
+      {
+        "id": "Africa/Johannesburg",
+        "name": "Africa/Johannesburg",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GS",
+    "currencyId": "GBP",
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": null,
+    "isActive": true,
+    "name": "Georgia",
+    "tzId": "Atlantic/South_Georgia",
+    "tzs": [
+      {
+        "id": "Atlantic/South_Georgia",
+        "name": "Atlantic/South_Georgia",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "KR",
+    "currencyId": "KRW",
+    "currencys": [
+      {
+        "id": "KRW",
+        "name": "KRW",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "82",
+    "isActive": true,
+    "name": "South Korea",
+    "tzId": "Asia/Seoul",
+    "tzs": [
+      {
+        "id": "Asia/Seoul",
+        "name": "Asia/Seoul",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SS",
+    "currencyId": "SSP",
+    "currencys": [
+      {
+        "id": "SSP",
+        "name": "SSP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "211",
+    "isActive": true,
+    "name": "South Sudan",
+    "tzId": "Africa/Khartoum",
+    "tzs": [
+      {
+        "id": "Africa/Khartoum",
+        "name": "Africa/Khartoum",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ES",
+    "currencyId": "EUR",
+    "currencys": [
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "34",
+    "isActive": true,
+    "name": "Spain",
+    "tzId": "Atlantic/Canary",
+    "tzs": [
+      {
+        "id": "Europe/Madrid",
+        "name": "Europe/Madrid",
+        "isDefault": true
+      },
+      {
+        "id": "Africa/Ceuta",
+        "name": "Africa/Ceuta",
+        "isDefault": true
+      },
+      {
+        "id": "Atlantic/Canary",
+        "name": "Atlantic/Canary",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "LK",
+    "currencyId": "LKR",
+    "currencys": [
+      {
+        "id": "LKR",
+        "name": "LKR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "94",
+    "isActive": true,
+    "name": "Sri Lanka",
+    "tzId": "Asia/Colombo",
+    "tzs": [
+      {
+        "id": "Asia/Colombo",
+        "name": "Asia/Colombo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SD",
+    "currencyId": "SDG",
+    "currencys": [
+      {
+        "id": "SDG",
+        "name": "SDG",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "249",
+    "isActive": true,
+    "name": "Sudan",
+    "tzId": "Africa/Khartoum",
+    "tzs": [
+      {
+        "id": "Africa/Khartoum",
+        "name": "Africa/Khartoum",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SR",
+    "currencyId": "SRD",
+    "currencys": [
+      {
+        "id": "SRD",
+        "name": "SRD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "597",
+    "isActive": true,
+    "name": "Suriname",
+    "tzId": "America/Paramaribo",
+    "tzs": [
+      {
+        "id": "America/Paramaribo",
+        "name": "America/Paramaribo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SZ",
+    "currencyId": "SZL",
+    "currencys": [
+      {
+        "id": "SZL",
+        "name": "SZL",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "268",
+    "isActive": true,
+    "name": "Swaziland",
+    "tzId": "Africa/Johannesburg",
+    "tzs": [
+      {
+        "id": "Africa/Johannesburg",
+        "name": "Africa/Johannesburg",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SE",
+    "currencyId": "SEK",
+    "currencys": [
+      {
+        "id": "SEK",
+        "name": "SEK",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "46",
+    "isActive": true,
+    "name": "Sweden",
+    "tzId": "Europe/Stockholm",
+    "tzs": [
+      {
+        "id": "Europe/Stockholm",
+        "name": "Europe/Stockholm",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "CH",
+    "currencyId": "CHF",
+    "currencys": [
+      {
+        "id": "CHF",
+        "name": "CHF",
+        "isDefault": true
+      },
+      {
+        "id": "CHE",
+        "name": "CHE",
+        "isDefault": true
+      },
+      {
+        "id": "CHW",
+        "name": "CHW",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "41",
+    "isActive": true,
+    "name": "Switzerland",
+    "tzId": "Europe/Zurich",
+    "tzs": [
+      {
+        "id": "Europe/Zurich",
+        "name": "Europe/Zurich",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "SY",
+    "currencyId": "SYP",
+    "currencys": [
+      {
+        "id": "SYP",
+        "name": "SYP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "963",
+    "isActive": true,
+    "name": "Syria",
+    "tzId": "Asia/Damascus",
+    "tzs": [
+      {
+        "id": "Asia/Damascus",
+        "name": "Asia/Damascus",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TW",
+    "currencyId": "TWD",
+    "currencys": [
+      {
+        "id": "TWD",
+        "name": "TWD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "886",
+    "isActive": true,
+    "name": "Taiwan",
+    "tzId": "Asia/Taipei",
+    "tzs": [
+      {
+        "id": "Asia/Taipei",
+        "name": "Asia/Taipei",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TJ",
+    "currencyId": "TJS",
+    "currencys": [
+      {
+        "id": "TJS",
+        "name": "TJS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "992",
+    "isActive": true,
+    "name": "Tajikistan",
+    "tzId": "Asia/Dushanbe",
+    "tzs": [
+      {
+        "id": "Asia/Dushanbe",
+        "name": "Asia/Dushanbe",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TZ",
+    "currencyId": "TZS",
+    "currencys": [
+      {
+        "id": "TZS",
+        "name": "TZS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "255",
+    "isActive": true,
+    "name": "Tanzania",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TH",
+    "currencyId": "THB",
+    "currencys": [
+      {
+        "id": "THB",
+        "name": "THB",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "66",
+    "isActive": true,
+    "name": "Thailand",
+    "tzId": "Asia/Bangkok",
+    "tzs": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TL",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "670",
+    "isActive": true,
+    "name": "East Timor",
+    "tzId": "Asia/Dili",
+    "tzs": [
+      {
+        "id": "Asia/Dili",
+        "name": "Asia/Dili",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TO",
+    "currencyId": "TOP",
+    "currencys": [
+      {
+        "id": "TOP",
+        "name": "TOP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "676",
+    "isActive": true,
+    "name": "Tonga",
+    "tzId": "Pacific/Tongatapu",
+    "tzs": [
+      {
+        "id": "Pacific/Tongatapu",
+        "name": "Pacific/Tongatapu",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TT",
+    "currencyId": "TTD",
+    "currencys": [
+      {
+        "id": "TTD",
+        "name": "TTD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1 868",
+    "isActive": true,
+    "name": "Trinidad and Tobago",
+    "tzId": "America/Port_of_Spain",
+    "tzs": [
+      {
+        "id": "America/Port_of_Spain",
+        "name": "America/Port_of_Spain",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TN",
+    "currencyId": "TND",
+    "currencys": [
+      {
+        "id": "TND",
+        "name": "TND",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "216",
+    "isActive": true,
+    "name": "Tunisia",
+    "tzId": "Africa/Tunis",
+    "tzs": [
+      {
+        "id": "Africa/Tunis",
+        "name": "Africa/Tunis",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TR",
+    "currencyId": "TRY",
+    "currencys": [
+      {
+        "id": "TRY",
+        "name": "TRY",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "90",
+    "isActive": true,
+    "name": "Turkey",
+    "tzId": "Europe/Istanbul",
+    "tzs": [
+      {
+        "id": "Europe/Istanbul",
+        "name": "Europe/Istanbul",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TM",
+    "currencyId": "TMT",
+    "currencys": [
+      {
+        "id": "TMT",
+        "name": "TMT",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "993",
+    "isActive": true,
+    "name": "Turkmenistan",
+    "tzId": "Asia/Ashgabat",
+    "tzs": [
+      {
+        "id": "Asia/Ashgabat",
+        "name": "Asia/Ashgabat",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "TV",
+    "currencyId": "AUD",
+    "currencys": [
+      {
+        "id": "AUD",
+        "name": "AUD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "688",
+    "isActive": true,
+    "name": "Tuvalu",
+    "tzId": "Pacific/Funafuti",
+    "tzs": [
+      {
+        "id": "Pacific/Funafuti",
+        "name": "Pacific/Funafuti",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "UG",
+    "currencyId": "UGX",
+    "currencys": [
+      {
+        "id": "UGX",
+        "name": "UGX",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "256",
+    "isActive": true,
+    "name": "Uganda",
+    "tzId": "Africa/Nairobi",
+    "tzs": [
+      {
+        "id": "Africa/Nairobi",
+        "name": "Africa/Nairobi",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "UA",
+    "currencyId": "UAH",
+    "currencys": [
+      {
+        "id": "UAH",
+        "name": "UAH",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "380",
+    "isActive": true,
+    "name": "Ukraine",
+    "tzId": "Europe/Zaporozhye",
+    "tzs": [
+      {
+        "id": "Europe/Kiev",
+        "name": "Europe/Kiev",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Uzhgorod",
+        "name": "Europe/Uzhgorod",
+        "isDefault": true
+      },
+      {
+        "id": "Europe/Zaporozhye",
+        "name": "Europe/Zaporozhye",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "AE",
+    "currencyId": "AED",
+    "currencys": [
+      {
+        "id": "AED",
+        "name": "AED",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "971",
+    "isActive": true,
+    "name": "United Arab Emirates",
+    "tzId": "Asia/Dubai",
+    "tzs": [
+      {
+        "id": "Asia/Dubai",
+        "name": "Asia/Dubai",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "GB",
+    "currencyId": "GBP",
+    "currencys": [
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "44",
+    "isActive": true,
+    "name": "United Kingdom",
+    "tzId": "Europe/London",
+    "tzs": [
+      {
+        "id": "Europe/London",
+        "name": "Europe/London",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "US",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "1",
+    "isActive": true,
+    "name": "United States",
+    "tzId": "Pacific/Honolulu",
+    "tzs": [
+      {
+        "id": "America/New_York",
+        "name": "America/New_York",
+        "isDefault": true
+      },
+      {
+        "id": "America/Detroit",
+        "name": "America/Detroit",
+        "isDefault": true
+      },
+      {
+        "id": "America/Kentucky/Louisville",
+        "name": "America/Kentucky/Louisville",
+        "isDefault": true
+      },
+      {
+        "id": "America/Kentucky/Monticello",
+        "name": "America/Kentucky/Monticello",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Indianapolis",
+        "name": "America/Indiana/Indianapolis",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Vincennes",
+        "name": "America/Indiana/Vincennes",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Winamac",
+        "name": "America/Indiana/Winamac",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Marengo",
+        "name": "America/Indiana/Marengo",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Petersburg",
+        "name": "America/Indiana/Petersburg",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Vevay",
+        "name": "America/Indiana/Vevay",
+        "isDefault": true
+      },
+      {
+        "id": "America/Chicago",
+        "name": "America/Chicago",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Tell_City",
+        "name": "America/Indiana/Tell_City",
+        "isDefault": true
+      },
+      {
+        "id": "America/Indiana/Knox",
+        "name": "America/Indiana/Knox",
+        "isDefault": true
+      },
+      {
+        "id": "America/Menominee",
+        "name": "America/Menominee",
+        "isDefault": true
+      },
+      {
+        "id": "America/North_Dakota/Center",
+        "name": "America/North_Dakota/Center",
+        "isDefault": true
+      },
+      {
+        "id": "America/North_Dakota/New_Salem",
+        "name": "America/North_Dakota/New_Salem",
+        "isDefault": true
+      },
+      {
+        "id": "America/North_Dakota/Beulah",
+        "name": "America/North_Dakota/Beulah",
+        "isDefault": true
+      },
+      {
+        "id": "America/Denver",
+        "name": "America/Denver",
+        "isDefault": true
+      },
+      {
+        "id": "America/Boise",
+        "name": "America/Boise",
+        "isDefault": true
+      },
+      {
+        "id": "America/Phoenix",
+        "name": "America/Phoenix",
+        "isDefault": true
+      },
+      {
+        "id": "America/Los_Angeles",
+        "name": "America/Los_Angeles",
+        "isDefault": true
+      },
+      {
+        "id": "America/Metlakatla",
+        "name": "America/Metlakatla",
+        "isDefault": true
+      },
+      {
+        "id": "America/Anchorage",
+        "name": "America/Anchorage",
+        "isDefault": true
+      },
+      {
+        "id": "America/Juneau",
+        "name": "America/Juneau",
+        "isDefault": true
+      },
+      {
+        "id": "America/Sitka",
+        "name": "America/Sitka",
+        "isDefault": true
+      },
+      {
+        "id": "America/Yakutat",
+        "name": "America/Yakutat",
+        "isDefault": true
+      },
+      {
+        "id": "America/Nome",
+        "name": "America/Nome",
+        "isDefault": true
+      },
+      {
+        "id": "America/Adak",
+        "name": "America/Adak",
+        "isDefault": true
+      },
+      {
+        "id": "Pacific/Honolulu",
+        "name": "Pacific/Honolulu",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "UY",
+    "currencyId": "UYU",
+    "currencys": [
+      {
+        "id": "UYU",
+        "name": "UYU",
+        "isDefault": true
+      },
+      {
+        "id": "UYI",
+        "name": "UYI",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "598",
+    "isActive": true,
+    "name": "Uruguay",
+    "tzId": "America/Montevideo",
+    "tzs": [
+      {
+        "id": "America/Montevideo",
+        "name": "America/Montevideo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "UZ",
+    "currencyId": "UZS",
+    "currencys": [
+      {
+        "id": "UZS",
+        "name": "UZS",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "998",
+    "isActive": true,
+    "name": "Uzbekistan",
+    "tzId": "Asia/Tashkent",
+    "tzs": [
+      {
+        "id": "Asia/Samarkand",
+        "name": "Asia/Samarkand",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Tashkent",
+        "name": "Asia/Tashkent",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "VU",
+    "currencyId": "VUV",
+    "currencys": [
+      {
+        "id": "VUV",
+        "name": "VUV",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "678",
+    "isActive": true,
+    "name": "Vanuatu",
+    "tzId": "Pacific/Efate",
+    "tzs": [
+      {
+        "id": "Pacific/Efate",
+        "name": "Pacific/Efate",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "VE",
+    "currencyId": "VEF",
+    "currencys": [
+      {
+        "id": "VEF",
+        "name": "VEF",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "58",
+    "isActive": true,
+    "name": "Venezuela",
+    "tzId": "America/Caracas",
+    "tzs": [
+      {
+        "id": "America/Caracas",
+        "name": "America/Caracas",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "VN",
+    "currencyId": "VND",
+    "currencys": [
+      {
+        "id": "VND",
+        "name": "VND",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "84",
+    "isActive": true,
+    "name": "Vietnam",
+    "tzId": "Asia/Ho_Chi_Minh",
+    "tzs": [
+      {
+        "id": "Asia/Bangkok",
+        "name": "Asia/Bangkok",
+        "isDefault": true
+      },
+      {
+        "id": "Asia/Ho_Chi_Minh",
+        "name": "Asia/Ho_Chi_Minh",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "YE",
+    "currencyId": "YER",
+    "currencys": [
+      {
+        "id": "YER",
+        "name": "YER",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "967",
+    "isActive": true,
+    "name": "Yemen",
+    "tzId": "Asia/Riyadh",
+    "tzs": [
+      {
+        "id": "Asia/Riyadh",
+        "name": "Asia/Riyadh",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ZM",
+    "currencyId": "ZMW",
+    "currencys": [
+      {
+        "id": "ZMW",
+        "name": "ZMW",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "260",
+    "isActive": true,
+    "name": "Zambia",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "ZW",
+    "currencyId": "USD",
+    "currencys": [
+      {
+        "id": "USD",
+        "name": "USD",
+        "isDefault": true
+      },
+      {
+        "id": "ZAR",
+        "name": "ZAR",
+        "isDefault": true
+      },
+      {
+        "id": "BWP",
+        "name": "BWP",
+        "isDefault": true
+      },
+      {
+        "id": "GBP",
+        "name": "GBP",
+        "isDefault": true
+      },
+      {
+        "id": "EUR",
+        "name": "EUR",
+        "isDefault": true
+      }
+    ],
+    "dialCode": "263",
+    "isActive": true,
+    "name": "Zimbabwe",
+    "tzId": "Africa/Maputo",
+    "tzs": [
+      {
+        "id": "Africa/Maputo",
+        "name": "Africa/Maputo",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "id": "VT",
+    "currencyId": null,
+    "currencys": [
+      {
+        "id": null,
+        "name": null,
+        "isDefault": false
+      }
+    ],
+    "dialCode": null,
+    "isActive": true,
+    "name": "Vatican City",
+    "tzs": [
+      {
+        "id": null,
+        "name": null
+      }
+    ]
+  }
+]
