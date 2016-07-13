@@ -1,6 +1,6 @@
 {
   "name": "hm-country-details",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To get major country details",
   "main": "hm-country-details.js",
   "dependencies": {},
