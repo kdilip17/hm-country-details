@@ -1,31 +1,34 @@
 {
   "name": "hm-country-details",
-  "version": "1.0.1",
-  "description": "To view country details",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "To get major country details",
+  "main": "hm-country-details.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kdilip17/hm-country-details.git"
+    "url": "git+https://github.com/kdilip17/hm-country-details.git"
   },
   "keywords": [
     "To",
-    "view",
+    "get",
+    "major",
     "country",
     "details",
-    "timezones",
+    "like",
+    "dialcodes",
+    "currencies",
     "and",
-    "currencys"
+    "timezones",
+    "etc."
   ],
   "author": "dilipkumar",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kdilip17/hm-country-details/issues"
   },
-  "homepage": "https://github.com/kdilip17/hm-country-details#readme",
-  "dependencies": {
-
-  }
+  "homepage": "https://github.com/kdilip17/hm-country-details#readme"
 }
