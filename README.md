@@ -12,7 +12,7 @@ var countries=require("hm-country-details")();
 console.log(countries.listAll());
 
 # To Get country details by country id
-console.log(countries.getCountryById("IN");
+console.log(countries.getCountryById("IN"));
 
 # Response
 {
